@@ -245,7 +245,8 @@ plt.show()
 
 - **iv)** Generate Third Image Using Bitwise Operations.
 
-- <img width="1035" height="283" alt="image" src="https://github.com/user-attachments/assets/646a32dd-121d-4b37-8356-331cea5c405c" />
+- <img width="1130" height="267" alt="image" src="https://github.com/user-attachments/assets/d3b12bed-5c5a-4691-9367-976385ee33b0" />
+
 <img width="604" height="443" alt="image" src="https://github.com/user-attachments/assets/9c279aa9-1336-4e26-8137-1ca6e51f4cfa" />
 <img width="1085" height="302" alt="image" src="https://github.com/user-attachments/assets/de336a77-0609-420b-a781-8effa3bdcdab" />
 <img width="1099" height="447" alt="image" src="https://github.com/user-attachments/assets/71751dc1-b30c-4e91-a6f2-f2cf7365358f" />
