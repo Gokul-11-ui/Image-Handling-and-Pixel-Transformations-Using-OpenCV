@@ -189,9 +189,9 @@ plt.show()
 ```python
 b, g, r = cv2.split(img3)
 plt.figure(figsize=(10,5))
-plt.subplot(1,3,1), plt.imshow(b, cmap='gray'), plt.title("Blue Channel"), plt.axis("off")
-plt.subplot(1,3,2), plt.imshow(g, cmap='gray'), plt.title("Green Channel"), plt.axis("off")
-plt.subplot(1,3,3), plt.imshow(r, cmap='gray'), plt.title("Red Channel"), plt.axis("off")
+plt.subplot(1,3,1), plt.imshow(b, cmap='Blues'), plt.title("Blue Channel"), plt.axis("off")
+plt.subplot(1,3,2), plt.imshow(g, cmap='Greens'), plt.title("Green Channel"), plt.axis("off")
+plt.subplot(1,3,3), plt.imshow(r, cmap='Reds'), plt.title("Red Channel"), plt.axis("off")
 plt.show()
 ```
 
